@@ -7,11 +7,12 @@
 
 <img src="life_balance.gif" alt="side Image" align="right" width="120" height="150" />
 <img src="code.png" alt="side Image" align="right" width="100" height="150" />
-- 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
-- 🌱 I’m a Web Developer learning about various skills.
-- 💬 Creative thinker 🙌
-- 🤔 Also worked with image processing and CNN
-- 🎯 Focussed
+  - 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
+  - 🌱 I’m a Web Developer learning about various skills.
+  - 💬  Creative thinker 🙌
+  - 🤔 Also worked with image processing and CNN
+  - 🎯 Focussed
+
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 
