@@ -151,6 +151,12 @@
    ![Leetcode Stats](https://leetcode.card.workers.dev/?username=deblina_mandal&theme=nord&extension=activity)
     
 </details>
+<details> 
+<summary>💻 CodingNinja Profile Stats</summary>
+  
+   ![Leetcode Stats](https://www.naukri.com/code360/profile/05e40e6b-55c4-4aa9-9c41-3e269aabdf42)
+    
+</details>
 
 ## 📊 Github stats
 
