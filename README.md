@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="Hi.gif" width="29px">, I'm Deblina Mandal<img src="code.png" alt="side Image" align="center" width="100" height="100" /></h1>
+<h1 align="center">Hi <img src="Hi.gif" width="29px">, I'm Deblina Mandal</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img src="life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-
+<img src="code.png" alt="side Image" align="center" width="100" height="100" />
 - 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
 - 🌱 I’m a Web Developer learning about various skills.
 - 💬 Creative thinker 🙌
