@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deblina Mandal</h1><img src="Hi.gif" width="29px">
+<h1 align="center">Hi<img src="Hi.gif" width="29px">, I'm Deblina Mandal</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
   ![](https://komarev.com/ghpvc/?username=Deblina-Mandal&label=Profile%20Visits&color=blue&style=for-the-badge)
