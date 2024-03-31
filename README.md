@@ -1,6 +1,6 @@
-<h1 align="left">Hi <img src="Hi.gif" width="29px">, I'm Deblina Mandal</h1>
-<h3 align="left">A passionate Software Developer </h3>
-<p align="right"><img src="code.png" alt="side Image" align="right" width="200" height="auto" /></p>
+<h1 align="center">Hi <img src="Hi.gif" width="29px">, I'm Deblina Mandal</h1>
+<h3 align="center">A passionate Software Developer </h3>
+<p align="right"><img src="code.png" alt="side Image" align="right" width="100" height="100" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
