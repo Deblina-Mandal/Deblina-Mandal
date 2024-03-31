@@ -1,4 +1,4 @@
-<img src="deblina.jpeg" alt="deblina-mandal" /><h1 align="center">Hi <img src="Hi.gif" width="100px">, I'm Deblina Mandal</h1>
+<img src="deblina.jpeg" alt="deblina-mandal" height="50%" width="50%"/><h1 align="center">Hi <img src="Hi.gif" width="100px">, I'm Deblina Mandal</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
