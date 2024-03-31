@@ -1,5 +1,6 @@
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="deblina.jpeg" alt="deblina-mandal" height="10%" width="10%" style="border-radius: 50%;"/>
+<p align="left">
+  <img src="deblina.jpeg" alt="deblina-mandal" height="100" width="100" style="border-radius: 50%;">
+</p>
   <div>
     <h1 align="center">Hi <img src="Hi.gif" width="29px">, I'm Deblina Mandal</h1>
     <h3 align="center">A passionate Software Developer </h3>
