@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!--<img src="life_balance.gif" alt="side Image" align="right" width="180" height="200" />-->
-<img src="DEBLINA PHOTO.png" alt="side Image" align="right" width="200" height="220" />
+<img src="DEBLINA PHOTO.png" alt="side Image" align="right" width="200" height="220" style="border:white;" />
 <ul>
   <li> 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.</li>
   <li> 🌱 I’m a Web Developer learning about various skills.</li>
@@ -70,6 +70,7 @@
 <!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a> -->
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+
 ### 🧰 Frameworks and libraries
 
 <p>
