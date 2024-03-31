@@ -151,13 +151,6 @@
    ![Leetcode Stats](https://leetcode.card.workers.dev/?username=deblina_mandal&theme=nord&extension=activity)
     
 </details>
-<details> 
-<summary>💻 CodingNinja Profile Stats</summary>
-  
-  ![Leetcode Stats](https://code.card.workers.dev/?username=deblina_mandal&theme=nord&extension=activity)
-    
-    
-</details>
 
 ## 📊 Github stats
 
