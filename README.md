@@ -10,10 +10,11 @@
 - 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
 - 🌱 I’m a Web Developer learning about various skills.
 - 💬 Creative thinker 🙌
-- 💭🤔 Also worked with image processing and CNN
+- 🤔 Also worked with image processing and CNN
 - 🎯 Focussed
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/deblina-mandal-13b990226/)  &nbsp;
 <a href="https://linkedin.com/in/deblina mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deblina mandal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/deblina_mandal" target="blank"><img align="center" src="![image](https://github.com/Deblina-Mandal/Deblina-Mandal/assets/98173509/af7f1272-b508-4f16-88e0-afc10c5d5dfa)" alt="deblina_mandal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mandaldeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mandaldeb21" height="30" width="40" /></a>
