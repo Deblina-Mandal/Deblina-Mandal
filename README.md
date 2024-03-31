@@ -27,7 +27,7 @@
   </a>
 <!--   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 </p>
-## 🛠️ My favorite tools
+### 🛠️ My favorite tools
 
 ### 👨‍💻 Programming and markup languages
 
@@ -147,13 +147,7 @@
   <br/>
     
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deblina-Mandal&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
 </details>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deblina-mandal&show_icons=true&locale=en&layout=compact" alt="deblina-mandal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deblina-mandal&show_icons=true&locale=en" alt="deblina-mandal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deblina-mandal&" alt="deblina-mandal" /></p>
