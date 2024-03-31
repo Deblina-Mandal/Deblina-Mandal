@@ -1,4 +1,4 @@
-### Hi,I am Deblina Mandal   <img src="https://github.com/Deblina-Mandal/Deblina-Mandal/Hi.gif" width="29px">
+### Hi,I am Deblina Mandal   <img src="Hi.gif" width="29px">
 
   ![](https://komarev.com/ghpvc/?username=Deblina-Mandal&label=Profile%20Visits&color=blue&style=for-the-badge)
   
