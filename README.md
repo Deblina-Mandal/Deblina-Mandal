@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="life_balance.gif" alt="side Image" align="right" width="180" height="200" />
-<img src="deblina.jpeg" alt="side Image" align="right" width="180" height="200" />
+<!--<img src="life_balance.gif" alt="side Image" align="right" width="180" height="200" />-->
+<img src="deblina.jpeg" alt="side Image" align="right" width="220" height="200" />
 <ul>
   <li> 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.</li>
   <li> 🌱 I’m a Web Developer learning about various skills.</li>
   <li>🏆 Rajasthan Police Hackahton 1.0, 2024 Winner(Ranked 1st problemstatement wise and Overall 2nd Runners-up All-India)</li>
   <li>🏆 SIH Internal Hackathon MSIT, 2022 Winner</li>
-   <li>👩‍💻Former Summer Intern at Persistent Systems</li>
+  <li>👩‍💻Former Summer Intern at Persistent Systems</li> 
   <li> 💬  Creative thinker 🙌</li>
   <li> 🤔 Also worked with image processing and CNN</li>
   <li> 🎯 Focussed</li>
