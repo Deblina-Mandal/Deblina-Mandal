@@ -21,6 +21,7 @@
 <a href="https://www.codechef.com/users/deblina_mandal" target="blank"><img align="center" src="codechef.png" alt="deblina_mandal" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/mandaldeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mandaldeb21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+<br>
 <p align="center">
   <a href="https://github.com/Deblina-Mandal/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deblina-Mandal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Deblina-Mandal&theme=monokai-metallian&hide_border=true"/>
