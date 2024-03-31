@@ -1,6 +1,10 @@
-<p align="left"><img src="deblina.jpeg" alt="deblina-mandal" height="10%" width="10%" style="border-radius: 50%;"/> </p>
-<h1 align="center"> Hi <img src="Hi.gif" width="29px">, I'm Deblina Mandal</h1>
-<h3 align="center">A passionate Software Developer </h3>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+  <img src="deblina.jpeg" alt="deblina-mandal" height="10%" width="10%" style="border-radius: 50%;"/>
+  <div>
+    <h1 align="center">Hi <img src="Hi.gif" width="29px">, I'm Deblina Mandal</h1>
+    <h3 align="center">A passionate Software Developer </h3>
+  </div>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
 
