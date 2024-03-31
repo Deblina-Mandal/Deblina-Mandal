@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="![life_balance](https://github.com/Deblina-Mandal/Deblina-Mandal/assets/98173509/ef517edb-fe42-4f91-a46f-d816691dbcaf)" alt="side Image" align="right" width="200" height="auto" />
+<img src="life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 - 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
-  - 🌱 I’m a Web Developer learning about various skills.
-  - 💬 Creative thinker 🙌
-  -💭🤔 Also worked with image processing and CNN
-  -🎯 Focussed
+- 🌱 I’m a Web Developer learning about various skills.
+- 💬 Creative thinker 🙌
+-💭🤔 Also worked with image processing and CNN
+-🎯 Focussed
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deblina mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deblina mandal" height="30" width="40" /></a>
