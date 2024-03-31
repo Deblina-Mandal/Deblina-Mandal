@@ -15,8 +15,8 @@
   <li> 🎯 Focussed</li>
 </ul>
 <h3 align="left">📫 How to reach me:</h3>
-<p align="center">
 
+<p align="center">
 <a href="https://www.linkedin.com/in/deblina-mandal-13b990226/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="deblina mandal" width="4%" /></a>&nbsp;
 <a href="https://www.codechef.com/users/deblina_mandal" target="blank"><img align="center" src="codechef.png" alt="deblina_mandal" height="30" width="40" /></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/mandaldeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mandaldeb21" height="30" width="40" /></a>&nbsp;
