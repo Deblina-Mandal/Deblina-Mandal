@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Deblina Mandal</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+### Hi,I am Deblina Mandal  ![Hi](https://github.com/Deblina-Mandal/Deblina-Mandal/assets/98173509/629389e8-9e52-4d5a-b2ae-d31f73a621e4)
 
-<
-
+  ![](https://komarev.com/ghpvc/?username=Deblina-Mandal&label=Profile%20Visits&color=blue&style=for-the-badge)
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img src="![life_balance](https://github.com/Deblina-Mandal/Deblina-Mandal/assets/98173509/ef517edb-fe42-4f91-a46f-d816691dbcaf)" alt="side Image" align="right" width="200" height="auto" />
+
+- 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
+  - 🌱 I’m a Web Developer learning about various skills.
+  - 💬 Creative thinker 🙌
+  -💭🤔 Also worked with image processing and CNN
+  -🎯 Focussed
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deblina mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deblina mandal" height="30" width="40" /></a>
