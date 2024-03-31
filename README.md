@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<img src="code.png" alt="side Image" align="right" width="100" height="100" />
+<img src="life_balance.gif" alt="side Image" align="right" width="200" height="150" />
+<p>    </p>
+<img src="code.png" alt="side Image" align="right" width="100" height="150" />
 - 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
 - 🌱 I’m a Web Developer learning about various skills.
 - 💬 Creative thinker 🙌
