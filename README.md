@@ -8,11 +8,11 @@
 <img src="life_balance.gif" alt="side Image" align="right" width="120" height="150" />
 <img src="code.png" alt="side Image" align="right" width="100" height="150" />
 <ul>
-  <li>- 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.</li>
-  <li>- 🌱 I’m a Web Developer learning about various skills.</li>
-  <li>- 💬  Creative thinker 🙌</li>
-  <li>- 🤔 Also worked with image processing and CNN</li>
-  <li>- 🎯 Focussed</li>
+  <li> 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.</li>
+  <li> 🌱 I’m a Web Developer learning about various skills.</li>
+  <li> 💬  Creative thinker 🙌</li>
+  <li> 🤔 Also worked with image processing and CNN</li>
+  <li> 🎯 Focussed</li>
 </ul>
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
