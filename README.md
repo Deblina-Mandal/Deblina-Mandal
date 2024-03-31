@@ -19,7 +19,8 @@
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/deblina-mandal-13b990226/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="deblina mandal" width="4%" /></a>&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/deblina_mandal" target="blank"><img align="center" src="codechef.png" alt="deblina_mandal" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/mandaldeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mandaldeb21" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/mandaldeb21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mandaldeb21" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://www.naukri.com/code360/profile/05e40e6b-55c4-4aa9-9c41-3e269aabdf42" target="blank"><img align="center" src="![image](https://github.com/Deblina-Mandal/Deblina-Mandal/assets/98173509/88a4c988-8853-47be-898e-81505be5ff78)
+" alt="mandaldeb21" height="30" width="40" /></a>&nbsp;
 </p>
 <br>
 <p align="center">
@@ -154,7 +155,8 @@
 <details> 
 <summary>💻 CodingNinja Profile Stats</summary>
   
-   ![Leetcode Stats](https://www.naukri.com/code360/profile/05e40e6b-55c4-4aa9-9c41-3e269aabdf42)
+  ![Leetcode Stats](https://code.card.workers.dev/?username=deblina_mandal&theme=nord&extension=activity)
+    
     
 </details>
 
@@ -165,7 +167,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deblina-Mandal&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
+   ![Deblina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deblina-Mandal&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
  
 </details>
 
