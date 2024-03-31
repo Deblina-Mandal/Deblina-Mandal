@@ -10,8 +10,8 @@
 - 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.
 - 🌱 I’m a Web Developer learning about various skills.
 - 💬 Creative thinker 🙌
--💭🤔 Also worked with image processing and CNN
--🎯 Focussed
+- 💭🤔 Also worked with image processing and CNN
+- 🎯 Focussed
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deblina mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deblina mandal" height="30" width="40" /></a>
