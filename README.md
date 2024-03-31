@@ -4,12 +4,9 @@
  
 
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!--<img src="life_balance.gif" alt="side Image" align="right" width="180" height="200" />-->
-<img src="DEBLINA PHOTO.png" alt="side Image" align="right" width="200" height="220" style="border: 5 solid white;" />
+<img src="DEBLINAA.jpeg" alt="side Image" align="right" width="200" height="220" style="border: 5 solid white;" />
 
 <ul>
   <li> 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.</li>
@@ -168,7 +165,11 @@
   <br/>
     
    ![Deblina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deblina-Mandal&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
- 
+   
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 </details>
 
 
