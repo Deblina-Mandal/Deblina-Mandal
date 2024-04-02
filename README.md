@@ -164,7 +164,9 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     
-   ![Deblina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deblina-Mandal&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
+   ![Deblina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deblina-Mandal&show_icons=true&theme=radical)
+   <br>
+   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
    
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
 
@@ -172,4 +174,5 @@
 
 </details>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deblina-mandal&label=Profile%20views&color=0e75b6&style=flat" alt="deblina-mandal" /> </p>
 
