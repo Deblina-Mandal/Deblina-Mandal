@@ -162,17 +162,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    
-  <p align="center"> 
+  <br>
    ![Deblina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deblina-Mandal&show_icons=true&theme=radical)  
-  </p>
-  
+ 
    <br>
-   
-   <p align="center"> 
-    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
-   </p>
+   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Deblina-Mandal&layout=compact)
    
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deblina-mandal" alt="deblina-mandal" /></a> </p>
 
