@@ -9,12 +9,13 @@
 <img src="DEBLINAA.jpeg" alt="side Image" align="right" width="200" height="220" style="border: 5 solid white;" />
 
 <ul>
-  <li> 🔭 I’m currently a 4th yr B.Tech CSE student at MSIT, Kolkata.</li>
+  <li> 🔭 I’m a B.Tech CSE graduate of MSIT, Kolkata.</li>
   <li> 🌱 I’m a Web Developer learning about various skills.</li>
-  <li>🏆 Rajasthan Police Hackathon 1.0, 2024 Winner (Ranked 1st problem-statement wise and Overall 2nd Runners-up All-India)</li>
-  <li>🏆 SIH Internal Hackathon MSIT, 2022 Winner</li>
-  <li>👩‍💻Former Summer Intern at Persistent Systems</li> 
-  <li> 💬  Creative thinker 🙌</li>
+  <li> 👩‍💻Working at Accenture</li> 
+  <li> 👩‍💻Former Summer Intern at Persistent Systems</li> 
+  <li> 🏆 Rajasthan Police Hackathon 1.0, 2024 Winner (Ranked 1st problem-statement wise and Overall 2nd Runners-up All-India)</li>
+  <li> 🏆 SIH Internal Hackathon MSIT, 2022 Winner</li>
+  <li> 💬 Creative thinker 🙌</li>
   <li> 🤔 Also worked with image processing and CNN</li>
   <li> 🎯 Focussed</li>
 </ul>
